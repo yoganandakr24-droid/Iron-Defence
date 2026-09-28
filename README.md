@@ -24,5 +24,5 @@ Phishing and other cyber threats continue to target users through malicious link
 ##  Team Project
 
 IronDef was developed as a collaborative cybersecurity project with the goal of creating a practical and scalable approach to cyber defence and phishing detection.
-## Prototype Video and 
+## Prototype Video 
 https://www.youtube.com/watch?v=KYsmujhHwAs
